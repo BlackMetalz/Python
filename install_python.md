@@ -39,7 +39,7 @@ Python 3.7.3
 
 # From repo
 ``` 
-sudo yum install -y https://centos7.iuscommunity.org/ius-release.rpm `
+sudo yum install -y https://centos7.iuscommunity.org/ius-release.rpm
 ```
 
 ``` 
